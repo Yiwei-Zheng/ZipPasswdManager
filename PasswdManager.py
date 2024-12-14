@@ -1,3 +1,5 @@
+# Author https://github.com/Yiwei-Zheng
+
 import hashlib
 import zipfile36 as zipfile
 import pickle
